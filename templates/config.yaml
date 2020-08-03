@@ -5,3 +5,11 @@ default:
 default-256:
   extension: -256.itermcolors
   output: itermcolors
+
+alternative-fg:
+  extension: -alt-fg.itermcolors
+  output: itermcolors
+
+alternative-fg-256:
+  extension: -alt-fg-256.itermcolors
+  output: itermcolors
